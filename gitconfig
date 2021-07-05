@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vladimir.kosenkov@mba2016.esmt.org
+	name = Vladimir Kosenkov
